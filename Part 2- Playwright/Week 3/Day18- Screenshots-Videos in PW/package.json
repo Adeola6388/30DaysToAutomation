@@ -1,0 +1,14 @@
+{
+  "name": "day18--screenshots-videos-in-pw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Day18-Screenshots-Videos.spec.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1"
+  }
+}

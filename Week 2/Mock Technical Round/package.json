@@ -1,0 +1,17 @@
+{
+  "name": "mock-technical-round",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CodingChallenge.js",
+  "scripts": {
+    "test": "playwright test",
+    "start": "node CodingChallenge.js",
+    "show:config": "node CodingChallenge.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0"
+  }
+}
